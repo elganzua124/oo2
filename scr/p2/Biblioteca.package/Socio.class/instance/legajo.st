@@ -1,3 +1,0 @@
-accessing
-legajo
-	^ legajo
