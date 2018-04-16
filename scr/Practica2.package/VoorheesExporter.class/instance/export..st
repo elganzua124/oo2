@@ -1,6 +1,6 @@
 exporting
 export: socios 
-	
+	"prueba"
 	| exportedString |
 	
 	exportedString := '[', Character cr asString, 	(self exportSocio: socios first). 
