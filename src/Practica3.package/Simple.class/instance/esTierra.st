@@ -1,3 +1,0 @@
-accessing
-esTierra
-	^ esAgua not

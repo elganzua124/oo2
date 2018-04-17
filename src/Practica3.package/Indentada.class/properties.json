@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "Visualizacion",
+	"category" : "Practica3-Topografia",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "Indentada",
+	"type" : "normal"
+}
