@@ -1,13 +1,11 @@
 {
-	"commentStamp" : "",
+	"commentStamp" : "Francisco 4/16/2018 23:55",
 	"super" : "Object",
 	"category" : "Practica3-Topografia",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
-	"instvars" : [
-		"proporcion"
-	],
+	"instvars" : [ ],
 	"name" : "Topografia",
 	"type" : "normal"
 }
