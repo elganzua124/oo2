@@ -1,3 +1,0 @@
-accessing
-proporcionDeAgua
-	^ self subclassResponsibility
