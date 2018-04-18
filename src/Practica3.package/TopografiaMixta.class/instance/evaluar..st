@@ -1,5 +1,4 @@
 private
 evaluar: unaTopografiaMixta
-	| stream |
-	stream := ReadStream on: unaTopografiaMixta partes.
-	^ partes allSatisfy: [ :each | each = stream next ]
+	^ partes
+		allSatisfy: [ :parte | parte = (unaTopografiaMixta partes at: (partes indexOf: parte)) ]

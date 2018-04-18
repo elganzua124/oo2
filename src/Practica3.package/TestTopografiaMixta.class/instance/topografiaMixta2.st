@@ -1,5 +1,5 @@
 helpers
-otraTopografiaMixta
+topografiaMixta2
 	^ TopografiaMixta
 		with: TopografiaDeAgua new
 		and: TopografiaDeAgua new
