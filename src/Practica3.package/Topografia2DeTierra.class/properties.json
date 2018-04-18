@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "Topografia2",
+	"category" : "Practica3-Topografia-Alternativa",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "Topografia2DeTierra",
+	"type" : "normal"
+}

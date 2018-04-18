@@ -1,3 +1,0 @@
-accessing
-partes
-	^ partes

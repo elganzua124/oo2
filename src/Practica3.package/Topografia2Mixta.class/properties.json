@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "Topografia2",
+	"category" : "Practica3-Topografia-Alternativa",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"partes"
+	],
+	"name" : "Topografia2Mixta",
+	"type" : "normal"
+}

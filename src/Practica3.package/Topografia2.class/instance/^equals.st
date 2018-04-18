@@ -1,0 +1,3 @@
+comparing
+= unaTopografia
+	^ self subclassResponsibility

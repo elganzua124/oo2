@@ -1,0 +1,3 @@
+comparing
+evaluarTierra: unaTopografia
+	^ false
