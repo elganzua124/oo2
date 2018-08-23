@@ -2,7 +2,7 @@ exporting
 export: socios
 	"resolver: imprime primero legajo en vez de nombre."
 
-	^ NeoJSONWriter
+	^ NeoJSONWriter "instalar paquete NeoJSON"
 		toStringPretty:
 			(socios
 				collect: [ :each | 
